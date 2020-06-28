@@ -2,7 +2,7 @@
 # Projeto Pré-Admissão Laboratória
 
 ## 1. Resumo do Projeto
- Desolvolver um simulador que possa simular uma prova online de matemátematica via prompt.
+ Desolvolver um simulador de prova online de matemátematica via prompt.
 
 
 ## 2. Considerações técnicas
